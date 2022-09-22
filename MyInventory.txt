@@ -1,0 +1,21 @@
+f
+111
+Granny Smith Apple
+234
+0.25
+0.10
+Niagara Orchard
+p
+112
+Strawberry Jam
+35
+5.00
+2.24
+250
+v
+222
+Hot House Tomato
+500
+0.33
+0.15
+McDonald's Farm
